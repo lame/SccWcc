@@ -1,0 +1,17 @@
+This file is hardcoded to the web-Stanford.txt file
+
+This file will introduce a list of nodes and directed connected edges
+
+Output is as follows:
+
+Number of Nodes
+Number of Edges
+Largest SCC (strongly connected components [digraph])
+Number of Edges in SCC
+Largest WCC (weakly connected components [undirected graph]) 
+Number of Edges in WCC
+
+To Run type "python Prog2.py"
+
+Thanks!
+~Ryan
